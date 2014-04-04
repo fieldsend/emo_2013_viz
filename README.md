@@ -3,6 +3,14 @@ emo_2013_viz
 
 Codebase for EMO 2013 visualisation paper "Visualising high-dimensional Pareto relationships in two-dimensional scatterplots, Evolutionary Multi-criterion Optimization" by Jonathan E. Fieldsend and Richard M. Everson
 
+Institutional paper repository:
+
+https://ore.exeter.ac.uk/repository/handle/10871/11702
+
+DOI:
+
+http://dx.doi.org/10.1007/978-3-642-37140-0_42
+
 Readme for release 1.0 
 2/4/2013
 Jonathan Fieldsend
@@ -19,10 +27,17 @@ Please use the help option for each of these methods.
 
 The first two undertake the visualisations described in:
 
-Fieldsend JE, Everson RM. Visualising high-dimensional Pareto relationships in two-dimensional scatterplots, Evolutionary Multi-criterion Optimisation, EMO 2013.LNCS pp 558-572
+Fieldsend JE, Everson RM. 
+Visualising high-dimensional Pareto relationships in two-dimensional 
+scatterplots, 
+Evolutionary Multi-criterion Optimisation, EMO 2013.
+LNCS pp 558-572
 
 The last undertakes the visualisation described in 
 
-M. Koppen and K. Yoshida. Visualization of Pareto-sets in evolutionary multi-objective  optimization. In Proceedings of the 7th International Conference on Hybrid Intelligent Systems, pages 156?161, Washington, DC, USA, 2007
+M. Koppen and K. Yoshida. 
+Visualization of Pareto-sets in evolutionary multi-objective  optimization. 
+In Proceedings of the 7th International Conference on Hybrid Intelligent 
+Systems, pages 156?161, Washington, DC, USA, 2007
 
 *given* an already optimised permutation (Koppen and Yoshida used NSGA-II). If you have not provided an permutation for the non-dominated subset, then spectral seriation can be used instead (and is a built in option).
