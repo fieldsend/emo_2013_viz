@@ -38,6 +38,6 @@ The last undertakes the visualisation described in
 M. Koppen and K. Yoshida. 
 Visualization of Pareto-sets in evolutionary multi-objective  optimization. 
 In Proceedings of the 7th International Conference on Hybrid Intelligent 
-Systems, pages 156?161, Washington, DC, USA, 2007
+Systems, pages 156-161, Washington, DC, USA, 2007
 
 given an already optimised permutation (Koppen and Yoshida used NSGA-II). If you have not provided a permutation for the non-dominated subset, then spectral seriation can be used instead (and is a built in option).
