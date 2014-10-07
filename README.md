@@ -11,11 +11,11 @@ DOI:
 
 http://dx.doi.org/10.1007/978-3-642-37140-0_42
 
-Readme for release 1.0 
-2/4/2013
+Readme for release 1.0
+
 Jonathan Fieldsend
 
-This is research quality code, it undoubtedly could benefit from some refactoring, and there is some wasted computation, however I hope the comments (and the published work), make it relatively easy to follow. If you find a bug (and especially if you have a fix for it) please email the author at <J.E.Fieldsend @ exeter.ac.uk>.
+This is research quality code, it undoubtedly could benefit from some refactoring, and there is some wasted computation, however I hope the comments (and the published work), make it relatively easy to follow. If you find a bug (and especially if you have a fix for it) please email the author at.
 
 There are a number of supporting functions that have been sparsely commented (if commented at all), as they provide some processing which is shared across approaches; the three functions you will want to invoke directly are:
 
@@ -40,4 +40,4 @@ Visualization of Pareto-sets in evolutionary multi-objective  optimization.
 In Proceedings of the 7th International Conference on Hybrid Intelligent 
 Systems, pages 156?161, Washington, DC, USA, 2007
 
-*given* an already optimised permutation (Koppen and Yoshida used NSGA-II). If you have not provided an permutation for the non-dominated subset, then spectral seriation can be used instead (and is a built in option).
+given an already optimised permutation (Koppen and Yoshida used NSGA-II). If you have not provided a permutation for the non-dominated subset, then spectral seriation can be used instead (and is a built in option).
