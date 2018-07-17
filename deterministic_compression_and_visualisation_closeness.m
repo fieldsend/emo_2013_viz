@@ -1,7 +1,7 @@
 function [ A, S, R, F, p, domination_matrix,est_dm,c] = ...
         deterministic_compression_and_visualisation_closeness( A, similarity_type, print_type, err_calc, passes)
 
-% function [ A, S, R, F, p, domination_matrix,c,dom_err,diff2] =
+% function [ A, S, R, F, p, domination_matrix,est_dm,c] =
 % deterministic_compression_and_visualisation_closeness( A,
 % similarity_type, print_type )
 %
