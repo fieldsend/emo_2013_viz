@@ -1,7 +1,7 @@
 function [ S, R, F, p, domination_matrix, est_dm, c] = ...
     deterministic_compression_and_visualisation_dominance( A, similarity_type,  print_type, err_calc)
 
-% [ S, R, F, p, domination_matrix, est_dm, c, dom_err] = 
+% [ S, R, F, p, domination_matrix, est_dm, c] = 
 %    deterministic_compression_and_visualisation_dominance( A, similarity_type,  print_type, err_calc)
 %
 % Method provides dominance-based visualisation described in:
