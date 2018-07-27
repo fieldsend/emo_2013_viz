@@ -95,7 +95,7 @@ I = find(F(p)==1); % indices of shell 1
      
 original_D_dimension_distances = zeros(N(1),1);
 for i=1:N(1)-1
-    original_D_dimension_distances(i+1) = Euc_dist(A(I(i),:),A(I(i+1),:));
+    original_D_dimension_distances(i+1) = Euc_dist(A(p(I(i)),:),A(p(I(i+1)),:));
 end
     
 end
