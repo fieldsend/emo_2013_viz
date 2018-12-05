@@ -26,7 +26,7 @@ function [ S, R, F, p, domination_matrix, est_dm, c] = ...
 %        'strict_dominance_similarity_matrix' for strict dominance 
 %         similarity (measures the proportion of points in the set that two
 %         points both dominate)
-%        'strict_dominance_similarity_matrix' for strict dominated 
+%        'strict_dominated_similarity_matrix' for strict dominated 
 %         similarity (measures the proportion of points in the set that two
 %         points are both dominated by)
 %        'combined_dominance_similarity_matrix' (measures the proportion of
