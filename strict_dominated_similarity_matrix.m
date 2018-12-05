@@ -1,6 +1,6 @@
 function [ S ] = strict_dominated_similarity_matrix( R )
 
-% function [ S ] = dominance_similarity_matrix( R )
+% function [ S ] = strict_dominated_similarity_matrix( R )
 %
 % 
 % Copyright (c) Jonathan E. Fieldsend 2013
