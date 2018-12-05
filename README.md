@@ -20,7 +20,9 @@ This is research quality code, it undoubtedly could benefit from some refactorin
 There are a number of supporting functions that have been sparsely commented (if commented at all), as they provide some processing which is shared across approaches; the three functions you will want to invoke directly are:
 
 deterministic_compression_and_visualisation_closeness
+
 deterministic_compression_and_visualisation_dominance
+
 deterministic_compression_and_visualisation_koppenyoshida
 
 Please use the help option for each of these methods. 
