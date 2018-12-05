@@ -13,7 +13,7 @@ function [A, S, R, F, N, p, shell0_locs, domination_matrix,p0angles] ...
 % INPUTS
 %
 % A = set of objective vectors (columns objectives, rows elements)
-% seriation_type = integer holding seriation type
+% seriation_matrix_function = name of function to generate similarity matrix (in string)
 % local_seriation = optional input, if not zero then local
 %   seriation of just the shell zero elements is undertaken, rather
 %   than seriation of the complete population. Default is not to have
