@@ -15,7 +15,7 @@ Readme for release 1.0
 
 Jonathan Fieldsend
 
-This is research quality code, it undoubtedly could benefit from some refactoring, and there is some wasted computation, however I hope the comments (and the published work), make it relatively easy to follow. If you find a bug (and especially if you have a fix for it) please email the author at.
+This is research quality code, it undoubtedly could benefit from some refactoring, and there is some wasted computation, however I hope the comments (and the published work), make it relatively easy to follow. If you find a bug (and especially if you have a fix for it) please email the author.
 
 There are a number of supporting functions that have been sparsely commented (if commented at all), as they provide some processing which is shared across approaches; the three functions you will want to invoke directly are:
 
